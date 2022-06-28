@@ -1,5 +1,5 @@
 import React from 'react';
-import NavBar from './components/NavBar';
+import NavBar from './components/navBar';
 import './App.css';
 
 
@@ -11,5 +11,6 @@ const App = () =>{
       
   );
 }
+
 
 export default App;
